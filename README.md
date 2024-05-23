@@ -8,12 +8,6 @@
 
 <br />
 
-## 📌 Link
-
-> 링크
-
-<br />
-
 ## 📞 Contact
 
 > 📱 : 010-9288-1660
@@ -41,4 +35,4 @@
 > ### 2️⃣ ~~~
 
 
-![footer](https://capsule-render.vercel.app/api?section=footer)
+![footer](https://capsule-render.vercel.app/api?type=Waving&section=footer&theme=gruvbox_light)
