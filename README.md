@@ -10,7 +10,7 @@
 
 ## 📞 Contact
 
-> 📱 : 010-9288-1660
+> <img src="https://img.shields.io/badge/Phone number-007396?style=for-the-badge&" /> : 010-9288-1660
   
 > <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> : eogks1660@gmail.com
   
