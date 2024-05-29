@@ -24,15 +24,22 @@
 
 ## 📝 Project
 
-> ### 1️⃣ <a href="https://eogks0218.github.io/DH_BookStore">DH's BookStore</a>
+> ### 1️⃣ **DH's BookStore**
 >
 > #### ✔ 개인프로젝트 ✔
 > #### ✔ 개인취향이 많~이 반영된 서점 웹사이트 ✔
 > #### ✔ <a href="https://github.com/eogks0218/DH_BookStore">프로젝트 상세 설명</a> ✔
+> #### ✔ <a href="https://eogks0218.github.io/DH_BookStore">웹사이트 방문하기</a> ✔
 
 <br />
 
-> ### 2️⃣ ~~~
+> ### 2️⃣ DH's Climbing Introduce
+>
+> #### ✔ 개인프로젝트 ✔
+> #### ✔ 개인 취미인 클라이밍 소개 웹사이트 ✔
+> #### ✔ <a href="https://github.com/eogks0218/DH_Climbing">프로젝트 상세 설명</a> ✔
+> #### ✔ <a href="https://eogks0218.github.io/DH_Climbing">웹사이트 방문하기</a> ✔
+
 
 
 ![footer](https://capsule-render.vercel.app/api?type=Waving&section=footer&theme=gruvbox_light)
