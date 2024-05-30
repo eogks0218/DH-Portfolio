@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Soft&text=김머환의&fontAlign=30&fontSize=30&desc=PORTFOLIO&descAlign=60&descAlignY=50&theme=gruvbox_light)
+![header](https://capsule-render.vercel.app/api?type=Soft&text=김대환의&fontAlign=30&fontSize=30&desc=PORTFOLIO&descAlign=60&descAlignY=50&theme=gruvbox_light)
 
 
 
@@ -26,16 +26,16 @@
 
 > ### 1️⃣ DH's BookStore
 >
-> #### ✔ 개인프로젝트 ✔
+> #### ✔ 개인 프로젝트 ✔
 > #### ✔ 개인취향이 많~이 반영된 서점 웹사이트 ✔
 > #### ✔ <a href="https://github.com/eogks0218/DH_BookStore">프로젝트 상세 설명</a> ✔
 > #### ✔ <a href="https://eogks0218.github.io/DH_BookStore">웹사이트 방문하기</a> ✔
 
 <br />
 
-> ### 2️⃣ DH's Climbing Introduce
+> ### 2️⃣ The Crag
 >
-> #### ✔ 개인프로젝트 ✔
+> #### ✔ 개인 프로젝트 ✔
 > #### ✔ 개인 취미인 클라이밍 소개 웹사이트 ✔
 > #### ✔ <a href="https://github.com/eogks0218/DH_Climbing">프로젝트 상세 설명</a> ✔
 > #### ✔ <a href="https://eogks0218.github.io/DH_Climbing">웹사이트 방문하기</a> ✔
