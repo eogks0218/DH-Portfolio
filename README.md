@@ -14,9 +14,9 @@
   
 > <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> : eogks1660@gmail.com
   
-> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> : https://github.com/eogks0218
+> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> : <a href="https://github.com/eogks0218">eogks0218</a>
   
-> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> : https://www.instagram.com/rla_eoghks
+> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /> : <a href="https://www.instagram.com/rla_eoghks">rla_eoghks</a>
 
 > <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" /> : addkkd_
 
