@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ Intro
 
-> 소개글
+> <b>'만약'</b>과 <b>'혹시'</b>를 줄여나가는 <b>김대환</b>의 포트폴리오입니다 ❗ ❗
 
 <br />
 
@@ -40,6 +40,14 @@
 > #### ✔ <a href="https://github.com/eogks0218/DH_Climbing">프로젝트 상세 설명</a> ✔
 > #### ✔ <a href="https://eogks0218.github.io/DH_Climbing">웹사이트 방문하기</a> ✔
 
+<br />
+
+> ### 3️⃣ DH's StudyNote
+>
+> #### ✔ 개인 프로젝트 ✔
+> #### ✔ 블로그 기능의 공부노트 ✔
+> #### ✔ <a href="https://github.com/eogks0218/DH_StudyNote">프로젝트 상세 설명</a> ✔
+> #### ✔ <a href="https://eogks0218.github.io/DH_StudyNote">웹사이트 방문하기</a> ✔
 
 
 ![footer](https://capsule-render.vercel.app/api?type=Waving&section=footer&theme=gruvbox_light)
