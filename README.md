@@ -26,6 +26,8 @@
 
 > ### 1️⃣ DH's BookStore
 >
+> <img src="https://github.com/eogks0218/DH-Portfolio/assets/160206306/2003d596-001d-4370-82d2-1fda74942d5e" alt="메인" width="350px"/>
+>
 > #### ✔ 개인 프로젝트 ✔
 > #### ✔ 개인취향이 많~이 반영된 서점 웹사이트 ✔
 > #### ✔ <a href="https://github.com/eogks0218/DH_BookStore">프로젝트 상세 설명</a> ✔
@@ -34,6 +36,8 @@
 <br />
 
 > ### 2️⃣ The Crag
+>
+> <img src="https://github.com/eogks0218/DH-Portfolio/assets/160206306/59c81ac6-6c5d-4325-b2cd-6ba5b48c2aed" alt="메인" width="350px" />
 >
 > #### ✔ 개인 프로젝트 ✔
 > #### ✔ 개인 취미인 클라이밍 소개 웹사이트 ✔
@@ -44,6 +48,8 @@
 
 > ### 3️⃣ DH's StudyNote
 >
+>  <img src="https://github.com/eogks0218/DH-Portfolio/assets/160206306/6b9c160e-d553-4f8f-b62f-e82b8862f4e4" alt="메인" width="350px" />
+> 
 > #### ✔ 개인 프로젝트 ✔
 > #### ✔ 블로그 기능의 공부노트 ✔
 > #### ✔ <a href="https://github.com/eogks0218/DH_StudyNote">프로젝트 상세 설명</a> ✔
